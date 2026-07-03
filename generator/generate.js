@@ -55,7 +55,7 @@ async function generateArticle() {
 
   const message = await client.messages.create({
     model: 'claude-haiku-4-5-20251001',
-    max_tokens: 4000,
+    max_tokens: 6000,
     messages: [{
       role: 'user',
       content: `あなたはクレジットカード比較メディア「${SITE.name}」の専門ライターです。
@@ -84,8 +84,15 @@ contentの要件:
   });
 
   const text = message.content[0].text.trim();
-  const jsonMatch = text.match(/\{[\s\S]*\}/);
-  if (!jsonMatch) throw new Error('レスポンスにJSONが見つかりません');
+  console.log('レスポンス先頭200文字:', text.slice(0, 200));
+
+  // マークダウンコードブロックを除去
+  const cleaned = text.replace(/```json\s*/g, '').replace(/```\s*/g, '');
+  const jsonMatch = cleaned.match(/\{[\s\S]*\}/);
+  if (!jsonMatch) {
+    console.error('全レスポンス:', text);
+    throw new Error('レスポンスにJSONが見つかりません');
+  }
 
   const article = JSON.parse(jsonMatch[0]);
 
