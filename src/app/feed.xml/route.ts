@@ -1,6 +1,6 @@
 import { getAllArticles } from '@/lib/articles'
 
-const BASE_URL = 'https://creditcard-media.vercel.app'
+const BASE_URL = 'https://creditcard-media-kappa.vercel.app'
 
 export async function GET() {
   const articles = getAllArticles().slice(0, 20)
