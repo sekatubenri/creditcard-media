@@ -13,8 +13,7 @@ const AFFILIATE_TOP = `
 <div style="background:#f0fdf4;border:2px solid #059669;border-radius:8px;padding:16px;margin:24px 0;">
   <p style="font-weight:bold;color:#065f46;margin:0 0 8px;">【PR】あなたに最適なクレジットカードを今すぐ比較</p>
   <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;">
-    <li><a href="https://px.a8.net/svt/ejp?a8mat=CREDITCARD_PLACEHOLDER_1" rel="nofollow" style="display:inline-block;background:#059669;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">▶ 楽天カード（年会費永年無料・ポイント1%）</a></li>
-    <li><a href="https://px.a8.net/svt/ejp?a8mat=CREDITCARD_PLACEHOLDER_2" rel="nofollow" style="display:inline-block;background:#1d4ed8;color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">▶ 三井住友カード（最大5%ポイント還元）</a></li>
+    <li><a href="https://px.a8.net/svt/ejp?a8mat=4B7T8W+61BAWA+40JM+1NJK7M" rel="nofollow" style="display:inline-block;background:#059669;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">▶ 銀行振込などの支払いをカード決済に変換【ラボル カード払い】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B7T8W+61BAWA+40JM+1NJK7M" alt=""></li>
   </ul>
 </div>`;
 
