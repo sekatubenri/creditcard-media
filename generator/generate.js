@@ -14,6 +14,7 @@ const AFFILIATE_TOP = `
   <p style="font-weight:bold;color:#065f46;margin:0 0 8px;">【PR】あなたに最適なクレジットカードを今すぐ比較</p>
   <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;">
     <li><a href="https://px.a8.net/svt/ejp?a8mat=4B7T8W+61BAWA+40JM+1NJK7M" rel="nofollow" style="display:inline-block;background:#059669;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">▶ 銀行振込などの支払いをカード決済に変換【ラボル カード払い】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B7T8W+61BAWA+40JM+1NJK7M" alt=""></li>
+    <li><a href="https://px.a8.net/svt/ejp?a8mat=4B7T8W+6Z90DM+1WW0+5ZMCI" rel="nofollow" style="display:inline-block;background:#1d4ed8;color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">▶ 新会社でも作れる法人向けETC専用カード</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B7T8W+6Z90DM+1WW0+5ZMCI" alt=""></li>
   </ul>
 </div>`;
 
