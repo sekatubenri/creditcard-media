@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     siteName: 'クレジットカードナビ',
   },
   verification: {
-    google: 'XcyMImXtiMlMj5NBeiKQBcD_Vqrw3EDW0TDFBVTAtaA',
+    google: 'jlk7upt4Paq4-rSDm4wF-6Tjdw1wfewLKEN6uEQ0fw8',
   },
 }
 
