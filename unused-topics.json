@@ -150,11 +150,6 @@
     "category": "cashback"
   },
   {
-    "filename": "card-contactless.json",
-    "title": "タッチ決済（コンタクトレス）対応クレジットカード比較",
-    "category": "beginner"
-  },
-  {
     "filename": "card-debit-chigai.json",
     "title": "クレジットカードとデビットカードの違い【どちらがお得？】",
     "category": "beginner"
