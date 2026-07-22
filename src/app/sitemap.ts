@@ -1,7 +1,7 @@
 import { getAllArticles } from '@/lib/articles'
 import type { MetadataRoute } from 'next'
 
-const BASE_URL = 'https://creditcard-media-kappa.vercel.app'
+const BASE_URL = 'https://creditc-select.com'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles()

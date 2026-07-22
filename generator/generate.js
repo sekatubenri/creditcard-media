@@ -6,7 +6,7 @@ const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
 const SITE = {
   name: 'クレジットカードナビ',
-  url: 'https://creditcard-media.vercel.app',
+  url: 'https://creditc-select.com',
 };
 
 const AFFILIATE_TOP = `

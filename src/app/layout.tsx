@@ -3,6 +3,7 @@ import Script from 'next/script'
 import './globals.css'
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://creditc-select.com'),
   title: {
     default: 'クレジットカードナビ｜おすすめカード比較・ポイント活用ガイド',
     template: '%s｜クレジットカードナビ',
