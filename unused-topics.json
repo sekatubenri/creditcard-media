@@ -150,11 +150,6 @@
     "category": "cashback"
   },
   {
-    "filename": "card-rakuma.json",
-    "title": "フリマアプリの支払いでポイントが貯まるクレジットカード",
-    "category": "points"
-  },
-  {
     "filename": "card-digital.json",
     "title": "デジタルコンテンツ（動画・音楽・ゲーム）でポイントを貯める方法",
     "category": "points"
