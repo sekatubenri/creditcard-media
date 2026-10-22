@@ -1,152 +1,116 @@
 [
   {
-    "filename": "mitsui-sumitomo-card.json",
-    "title": "三井住友カードの種類と選び方【2026年版】",
-    "category": "compare"
+    "filename": "ten-percent-point-reward.json",
+    "title": "10%ポイント還元とは？仕組み・上限・条件と実質還元率の注意点2026",
+    "category": "points",
+    "keyword": "10%ポイント還元とは"
   },
   {
-    "filename": "paypay-card-review.json",
-    "title": "PayPayカードは得か？メリット・デメリットを徹底解説",
-    "category": "compare"
+    "filename": "annual-fee-free-vs-paid.json",
+    "title": "クレジットカード年会費無料と有料の違い｜有料カードを選ぶべき人とは",
+    "category": "beginner",
+    "keyword": "クレジットカード 年会費 無料 有料 違い"
   },
   {
-    "filename": "card-nenkai-muryo.json",
-    "title": "年会費無料クレジットカードおすすめ10選【損しない選び方】",
-    "category": "compare"
+    "filename": "corporate-card-no-annual-fee.json",
+    "title": "年会費無料の法人カードおすすめランキング2026｜審査・特典比較",
+    "category": "compare",
+    "keyword": "年会費無料 クレジットカード ランキング 法人"
   },
   {
-    "filename": "gold-card-osusume.json",
-    "title": "ゴールドカードおすすめランキング2026年【コスパ最強】",
-    "category": "compare"
+    "filename": "strict-screening-card-ranking.json",
+    "title": "審査が厳しいクレジットカードランキング2026｜難易度別に徹底解説",
+    "category": "compare",
+    "keyword": "クレカ 審査 厳しい ランキング"
   },
   {
-    "filename": "point-kangenritsu-ranking.json",
-    "title": "ポイント還元率が高いクレジットカードランキング2026",
-    "category": "points"
+    "filename": "regular-vs-gold-card.json",
+    "title": "クレジットカードの一般とゴールドの違い｜年会費・特典・審査を比較",
+    "category": "beginner",
+    "keyword": "クレジットカード 一般 ゴールド 違い"
   },
   {
-    "filename": "rakuten-point-katsuyo.json",
-    "title": "楽天ポイントを最大限に活用する方法【2026年完全ガイド】",
-    "category": "points"
+    "filename": "gold-card-no-annual-fee.json",
+    "title": "年会費無料のゴールドカードおすすめ2026｜永年無料・条件付きを比較",
+    "category": "compare",
+    "keyword": "ゴールドカード 年会費無料"
   },
   {
-    "filename": "paypay-point-okane.json",
-    "title": "PayPayポイントでお金に換える方法と注意点",
-    "category": "points"
+    "filename": "gold-card-demerits.json",
+    "title": "ゴールドカードのデメリット7つ【2026年】後悔しないための注意点",
+    "category": "beginner",
+    "keyword": "ゴールドカード デメリット"
   },
   {
-    "filename": "dpoint-katsuyo.json",
-    "title": "dポイントを賢く使う方法！交換先・使い道まとめ",
-    "category": "points"
+    "filename": "gold-card-income.json",
+    "title": "ゴールドカードに必要な年収は？審査の目安と年収別おすすめカード2026",
+    "category": "beginner",
+    "keyword": "ゴールドカード 年収"
   },
   {
-    "filename": "amazon-creditcard.json",
-    "title": "Amazonでお得なクレジットカードはどれ？還元率比較",
-    "category": "points"
+    "filename": "platinum-card-recommend.json",
+    "title": "プラチナカードおすすめ比較2026｜年会費・特典・招待条件を解説",
+    "category": "compare",
+    "keyword": "クレジットカード おすすめ プラチナ"
   },
   {
-    "filename": "suica-card-osusume.json",
-    "title": "Suicaと連携できるクレジットカードおすすめ5選",
-    "category": "points"
+    "filename": "lifecard-annual-fee-free.json",
+    "title": "ライフカードの年会費無料の条件とは？種類別の違いと注意点を解説2026",
+    "category": "compare",
+    "keyword": "ライフカード 年会費 無料 条件"
   },
   {
-    "filename": "cashback-card-osusume.json",
-    "title": "キャッシュバック率が高いクレジットカードおすすめランキング",
-    "category": "cashback"
+    "filename": "jp-card-annual-fee-free.json",
+    "title": "【2026年版】JPカードの年会費無料条件は？ゆうちょユーザー向けメリット解説",
+    "category": "compare",
+    "keyword": "jpカード 年会費 無料 条件"
   },
   {
-    "filename": "oricon-cashback.json",
-    "title": "クレジットカードのキャッシュバックとは？仕組みと活用法",
-    "category": "cashback"
+    "filename": "annual-fee-free-card-demerits.json",
+    "title": "年会費無料カードのデメリット5つ｜有料カードと比べて損するケースとは",
+    "category": "beginner",
+    "keyword": "年会費無料 カード デメリット"
   },
   {
-    "filename": "gas-cashback.json",
-    "title": "ガソリン代が安くなるクレジットカードおすすめ5選",
-    "category": "cashback"
+    "filename": "visa-card-no-annual-fee.json",
+    "title": "年会費無料のVisaカードおすすめ2026｜還元率・特典で徹底比較",
+    "category": "compare",
+    "keyword": "年会費 無料 クレジットカード visa"
   },
   {
-    "filename": "supermarket-card.json",
-    "title": "スーパーでお得なクレジットカードランキング2026",
-    "category": "cashback"
+    "filename": "credit-card-merits-demerits.json",
+    "title": "クレジットカードのメリット・デメリット｜使う前に知るべき基礎知識",
+    "category": "beginner",
+    "keyword": "クレジットカード デメリット メリット"
   },
   {
-    "filename": "drugstore-point.json",
-    "title": "ドラッグストアでポイントが貯まるカードおすすめ",
-    "category": "cashback"
+    "filename": "wedding-cost-credit-card.json",
+    "title": "結婚式費用をクレジットカード払いでお得に｜ポイント還元とおすすめカード",
+    "category": "cashback",
+    "keyword": "結婚 式 費用 クレカ おすすめ"
   },
   {
-    "filename": "card-hajimete.json",
-    "title": "クレジットカードの作り方【初心者向け完全ガイド】",
-    "category": "beginner"
+    "filename": "etc-card-no-annual-fee.json",
+    "title": "年会費無料のETCカードおすすめ2026｜クレジットカード別に比較",
+    "category": "compare",
+    "keyword": "etc カード 年会費無料 おすすめ"
   },
   {
-    "filename": "card-limit.json",
-    "title": "クレジットカードの限度額とは？引き上げ方法も解説",
-    "category": "beginner"
+    "filename": "credit-card-interest-rate.json",
+    "title": "クレジットカードの金利・手数料とは？リボ・分割払いの仕組みを解説",
+    "category": "beginner",
+    "keyword": "クレジットカード 金利"
   },
   {
-    "filename": "card-shinsatsu.json",
-    "title": "クレジットカードの審査に通るコツ【落ちた場合の対処法も】",
-    "category": "beginner"
+    "filename": "credit-card-20s.json",
+    "title": "20代におすすめのクレジットカードランキング2026｜社会人1枚目に",
+    "category": "compare",
+    "keyword": "クレカ おすすめ 20代"
   },
   {
-    "filename": "card-kaiyaku.json",
-    "title": "クレジットカードの解約方法と注意点【ポイントはどうなる？】",
-    "category": "beginner"
-  },
-  {
-    "filename": "card-security.json",
-    "title": "クレジットカードの不正利用を防ぐ方法【被害に遭ったら】",
-    "category": "beginner"
-  },
-  {
-    "filename": "card-riyou-meisai.json",
-    "title": "クレジットカードの利用明細の見方と管理方法",
-    "category": "beginner"
-  },
-  {
-    "filename": "jcb-card-osusume.json",
-    "title": "JCBカードおすすめランキング2026【海外・国内別】",
-    "category": "compare"
-  },
-  {
-    "filename": "visa-mastercard-chigai.json",
-    "title": "VisaとMastercardの違いとは？どちらを選ぶべきか",
-    "category": "beginner"
-  },
-  {
-    "filename": "amex-card-osusume.json",
-    "title": "アメックスカードおすすめ3選【ステータス・特典比較】",
-    "category": "compare"
-  },
-  {
-    "filename": "travel-card-osusume.json",
-    "title": "海外旅行でお得なクレジットカードおすすめ5選2026",
-    "category": "compare"
-  },
-  {
-    "filename": "student-card.json",
-    "title": "学生向けクレジットカードおすすめランキング2026",
-    "category": "beginner"
-  },
-  {
-    "filename": "business-card.json",
-    "title": "法人・ビジネスカードおすすめランキング2026【経費管理に最適】",
-    "category": "compare"
-  },
-  {
-    "filename": "card-bonus-point.json",
-    "title": "入会ボーナスポイントが多いクレジットカードランキング2026",
-    "category": "points"
-  },
-  {
-    "filename": "etax-card.json",
-    "title": "税金をクレジットカードで払う方法とお得なカード",
-    "category": "cashback"
-  },
-  {
-    "filename": "card-shakai-hoken.json",
-    "title": "社会保険料をクレジットカードで払う方法【ポイント還元術】",
-    "category": "cashback"
+    "filename": "childbirth-cost-credit-card.json",
+    "title": "出産費用をクレジットカード払いでお得に｜還元率の高いおすすめカード",
+    "category": "cashback",
+    "keyword": "出産費用 クレカ おすすめ"
   }
 ]
